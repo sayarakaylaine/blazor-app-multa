@@ -1,1 +1,2 @@
-# blazor-app-multa
+# App Multa
+Aplicação Blazor simulando um cadastro de multas.
