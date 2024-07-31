@@ -1,2 +1,2 @@
-# App Multa
-Aplicação Blazor simulando um cadastro de multas.
+# AppMulta
+Projeto Blazor simulando um cadastro de multas.
